@@ -7,3 +7,4 @@ export const db = mysql.createConnection({
     database: "crud2"
 });
 
+/**/
